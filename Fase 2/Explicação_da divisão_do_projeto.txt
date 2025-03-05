@@ -1,0 +1,16 @@
+Miguel Lopes (2222397)
+João Tendeiro (2222047)
+Jorge Oliveira (2221452)
+
+Os textos de casos de uso estão devidamente identificados.
+
+Os diagramas de sequência também estão devidamente identificados.
+
+O diagrama de classes final foi realizado em grupo.
+______________________________________________________________________
+
+Na parte da implementação a criação das classes, atributos, metodos e paginas foi feita em grupo.
+
+A parte dos testes foi feita individual e está devidamente indentificada no nome do teste.
+
+No main tem um comentário a explicar o que já existe assim que corre o main.
